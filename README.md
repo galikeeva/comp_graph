@@ -7,3 +7,5 @@
 - Зеркальные отражения
 - 3 различных материала
 - 2 примитива (плоскость, шар)
+
+![Alt-текст](https://github.com/galikeeva/comp_graph/blob/main/result.jpg Снеговик")
